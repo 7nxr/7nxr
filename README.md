@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👩🏻‍💻 7nxr
 
-<!--
-**7nxr/7nxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤖 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <img src="https://deviconapi.vercel.app/java?theme=dark&size=40" alt="Java" />&nbsp;
+  <img src="https://deviconapi.vercel.app/python?theme=dark&size=40" alt="Python" />&nbsp;
+  <img src="https://deviconapi.vercel.app/mongodb?theme=dark&size=40" alt="MongoDB" />&nbsp;
+  <img src="https://deviconapi.vercel.app/redis?theme=dark&size=40" alt="Redis" />&nbsp;
+  <img src="https://deviconapi.vercel.app/git?theme=dark&size=40" alt="Git" />&nbsp;
+  <img src="https://deviconapi.vercel.app/github?theme=dark&size=40" alt="GitHub" />&nbsp;
+  <img src="https://deviconapi.vercel.app/gradle?theme=dark&size=40" alt="Gradle" />&nbsp;
+</p>
